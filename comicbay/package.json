@@ -1,0 +1,14 @@
+{
+  "name": "comicbay",
+  "version": "1.0.0",
+  "description": "this is a comic book.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"src/comicapp.js",
+    "start":"src/comicapp.js"
+  },
+  "keywords": [],
+  "author": "Group A",
+  "license": "ISC"
+}
